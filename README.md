@@ -8,7 +8,7 @@
 In this dashboard, you can see overall daily covid patients and ratio of a number of patient separate by types. 
 Especially, a number of covid patients in line graph !!! you can see in overall or you can select types of patients that you are interested.</p>
 <p align ='left'> Data source by <a href = "https://covid19.th-stat.com/en/api" target = "_blank"> กรมควบคุมโรค </a></p>
-</p>
+
 <p align = 'center'>
 <iframe width="1024" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiY2FiYzA2MjItY2JkYy00NTE3LTg2NWEtNDM1NGJmNmU0YjU0IiwidCI6IjNhYjIwNWZhLTVjMWUtNDc2Yi04NDcyLWU5ZjIyZTM2MzhlZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
 </p>
@@ -36,5 +36,5 @@ between the number of members and the rating for used it to increase the rating.
 <p>Data source by <a href = "https://www.kaggle.com/CooperUnion/anime-recommendations-database" target="_blank">kaggle</a></p>
 
 <p align = 'center'>
-<iframe width="1024" height="550" src="https://public.tableau.com/views/AnimeRecommendations/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link:showVizHome=no&:embed=true" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="1100" height="550" src="https://public.tableau.com/views/AnimeRecommendations/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link:showVizHome=no&:embed=true" frameborder="0" allowFullScreen="true"></iframe>
 </p>
