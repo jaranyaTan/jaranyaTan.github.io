@@ -1,12 +1,12 @@
 # jaranyaTan.github.io
 
 <h1>Dashboard</h1>
-<p>This is dashboard projects build by Jaranya Tantiworathaworn </p>
+<p>Dashboard projects build by Jaranya Tantiworathaworn </p>
 <h2>Daily Covid Situation </h2>
 
-<p>This dashboard is daily update and used to follow covid situation separate by the patient types. 
-In this dashboard, you can see overall daily covid patients and ratio of a number of patient separate by types. 
-Especially, a number of covid patients in line graph !!! you can see in overall or you can select types of patients that you are interested.</p>
+<p>This dashboard is daily updated and used to follow covid situation separate by the patient types. 
+In this dashboard, you can see overall daily covid patients and the ratio of the number of patients separated by types. 
+Especially, the number of covid patients in line graph !!! you can see overall patient types together or you can select types of patients that you are interested in.</p>
 <p align ='left'> Data source by <a href = "https://covid19.th-stat.com/en/api" target = "_blank"> กรมควบคุมโรค </a></p>
 
 <p align = 'center'>
@@ -14,8 +14,7 @@ Especially, a number of covid patients in line graph !!! you can see in overall 
 </p>
 	
 <h2>Covid Situation by Provinces in Thailand</h2>
-<p>The dashboard tell that a number of covid patient in Thailand and you will see the province that most problem. You can filter province that has problem by click in the bubble in map,the red bubble mean a number of covid patient is increase, 
-after that you can see the cause of infection from selected province. Bonus!!! you can see a number of covid patient in overall from tooltip in map by hold the bubble in map! 
+<p>The dashboard tells the number of covid patients in Thailand and you will see the province that most problem and you can filter province that has a problem by click on the bubble in the map, the red bubble means the number of covid patients is increasing, after that, you can see the cause of infection from the selected province. Bonus!!! you can see a number of covid patients overall from the tooltip on the map by holding the bubble on the map! 
 </p>
 <p align ='left'> Data source by <a href = "https://data.go.th/dataset/covid-19-daily" target = "_blank"> DGA </a></p>
 <p align = 'center'>
@@ -23,7 +22,7 @@ after that you can see the cause of infection from selected province. Bonus!!! y
 </p>
 
 <h2>Sakila Film Rental Shop Monthly Report</h2>
-<p>This report tells a story about monthly revenue in the film rental shop. You can see the cause of increase or decrease revenue and you will find the way to increase revenue by the film or the actors that people are interested.
+<p>This report tells a story about monthly revenue in the film rental shop. You can see the cause of increase or decrease revenue and you will find the way to increase revenue by the film or the actors that people are interested in.
 </p>
 <p>Data source by Sakila Simple Database in MySQL</p>
 <p align = 'center'>
@@ -31,8 +30,7 @@ after that you can see the cause of infection from selected province. Bonus!!! y
 </p>
 
 <h2>Anime Recommendations</h2>
-<p> This is my first tableau dashboard which tell story about the popular animes. This is useful for various user such as everyone that is choosing a anime to see in their weekend or writer that want to write a story that everyone is interested. You can see the relationship 
-between the number of members and the rating for used it to increase the rating.</p>
+<p> This is my first Tableau dashboard which tells the story about popular animes. This is useful for various users such as everyone choosing an anime to see on their weekend or a writer who wants to write a story that everyone is interested in. You can see the relationship between the number of members and the rating for used increase the rating.</p>
 <p>Data source by <a href = "https://www.kaggle.com/CooperUnion/anime-recommendations-database" target="_blank">kaggle</a></p>
 
 <p align = 'center'>
