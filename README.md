@@ -14,7 +14,7 @@ Especially, the number of covid patients in line graph !!! you can see overall p
 </p>
 	
 <h2>Covid Situation by Provinces in Thailand</h2>
-<p>The dashboard tells the number of covid patients in Thailand and you will see the province that most problem and you can filter province that has a problem by click on the bubble in the map, the red bubble means the number of covid patients is increasing, after that, you can see the cause of infection from the selected province. Bonus!!! you can see a number of covid patients overall from the tooltip on the map by holding the bubble on the map! 
+<p>The dashboard tells the number of covid patients in Thailand and you will see the province that most problem. You can filter province that has a problem by click on the bubble in the map, the red bubble means the number of covid patients is increasing, after that, you can see the cause of infection from the selected province. Bonus!!! you can see a number of covid patients overall from the tooltip on the map by holding the bubble on the map! 
 </p>
 <p align ='left'> Data source by <a href = "https://data.go.th/dataset/covid-19-daily" target = "_blank"> DGA </a></p>
 <p align = 'center'>
