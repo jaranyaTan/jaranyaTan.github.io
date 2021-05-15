@@ -9,8 +9,8 @@ In this dashboard, you can see overall daily covid patients and the ratio of the
 Especially, the number of covid patients in line graph !!! you can see overall patient types together or you can select types of patients that you are interested in.</p>
 <p align ='left'> Data source by <a href = "https://covid19.th-stat.com/en/api" target = "_blank"> กรมควบคุมโรค </a></p>
 
-<p align = 'left'>
-<iframe width="1024" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiY2FiYzA2MjItY2JkYy00NTE3LTg2NWEtNDM1NGJmNmU0YjU0IiwidCI6IjNhYjIwNWZhLTVjMWUtNDc2Yi04NDcyLWU5ZjIyZTM2MzhlZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
+<p align = 'center'>
+<iframe width="100%" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiY2FiYzA2MjItY2JkYy00NTE3LTg2NWEtNDM1NGJmNmU0YjU0IiwidCI6IjNhYjIwNWZhLTVjMWUtNDc2Yi04NDcyLWU5ZjIyZTM2MzhlZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
 </p>
 	
 <h2>Covid Situation by Provinces in Thailand</h2>
