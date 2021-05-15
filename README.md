@@ -36,5 +36,5 @@ between the number of members and the rating for used it to increase the rating.
 <p>Data source by <a href = "https://www.kaggle.com/CooperUnion/anime-recommendations-database" target="_blank">kaggle</a></p>
 
 <p align = 'center'>
-<iframe width="1200" height="550" src="https://public.tableau.com/views/AnimeRecommendations/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link:showVizHome=no&:embed=true" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="1024" height="550" src="https://public.tableau.com/views/AnimeRecommendations/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link:showVizHome=no&:embed=true" frameborder="0" allowFullScreen="true"></iframe>
 </p>
