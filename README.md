@@ -1,4 +1,4 @@
-# jaranyaTan.github.ioeiei
+# Welcome to my dashboards :)
 
 
 <p>Dashboard projects build by Jaranya Tantiworathaworn </p>
