@@ -10,7 +10,7 @@ Especially, the number of covid patients in line graph !!! you can see overall p
 <p align ='left'> Data source by <a href = "https://covid19.th-stat.com/en/api" target = "_blank"> กรมควบคุมโรค </a></p>
 
 <p align = 'center'>
-<iframe width="900" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiY2FiYzA2MjItY2JkYy00NTE3LTg2NWEtNDM1NGJmNmU0YjU0IiwidCI6IjNhYjIwNWZhLTVjMWUtNDc2Yi04NDcyLWU5ZjIyZTM2MzhlZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="900" height="100%" src="https://app.powerbi.com/view?r=eyJrIjoiY2FiYzA2MjItY2JkYy00NTE3LTg2NWEtNDM1NGJmNmU0YjU0IiwidCI6IjNhYjIwNWZhLTVjMWUtNDc2Yi04NDcyLWU5ZjIyZTM2MzhlZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
 </p>
 	
 <h2>Covid Situation by Provinces in Thailand</h2>
