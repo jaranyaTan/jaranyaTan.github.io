@@ -1,6 +1,5 @@
 # Welcome to my dashboards
 
-<title>JaranyaDashboard</title>
 <p>Dashboard projects build by Jaranya Tantiworathaworn </p>
 <h2>Daily Covid Situation </h2>
 
@@ -18,7 +17,7 @@ Especially, the number of covid patients in line graph !!! you can see overall p
 </p>
 <p align ='left'> Data source by <a href = "https://data.go.th/dataset/covid-19-daily" target = "_blank"> DGA </a></p>
 <p align = 'center'>
-<iframe width="900" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiNjQ5ZjIwYTQtMzgwOC00NjM5LTlhZGMtMGVmNGQ3YjJhY2UxIiwidCI6IjNhYjIwNWZhLTVjMWUtNDc2Yi04NDcyLWU5ZjIyZTM2MzhlZCIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="900" height="500" src="https://app.powerbi.com/view?r=eyJrIjoiNjQ5ZjIwYTQtMzgwOC00NjM5LTlhZGMtMGVmNGQ3YjJhY2UxIiwidCI6IjNhYjIwNWZhLTVjMWUtNDc2Yi04NDcyLWU5ZjIyZTM2MzhlZCIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
 </p>
 
 <h2>Sakila Film Rental Shop Monthly Report</h2>
