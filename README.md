@@ -1,6 +1,6 @@
 # jaranyaTan.github.io
 
-<h1>Dashboard</h1>
+
 <p>Dashboard projects build by Jaranya Tantiworathaworn </p>
 <h2>Daily Covid Situation </h2>
 
