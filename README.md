@@ -1,7 +1,7 @@
 # Welcome to my dashboards
 
 <p>Dashboard projects build by Jaranya Tantiworathaworn </p>
-<h2>Daily Covid Situation </h2>
+<!-- <h2>Daily Covid Situation </h2>
 
 <p>This dashboard is daily updated and used to follow covid situation separate by the patient types. 
 In this dashboard, you can see overall daily covid patients and the ratio of the number of patients separated by types. 
@@ -26,6 +26,13 @@ Especially, the number of covid patients in line graph !!! you can see overall p
 <p>Data source by Sakila Simple Database in MySQL</p>
 <p align = 'center'>
 <iframe width="900" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiODQ4ZTk1ZGYtZmU3NS00NzMwLTk5MjgtZTg1MTg5ZWUxNWEzIiwidCI6IjNhYjIwNWZhLTVjMWUtNDc2Yi04NDcyLWU5ZjIyZTM2MzhlZCIsImMiOjEwfQ%3D%3D&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
+</p> -->
+<h2>Supermarket Dashboard</h2>
+<p> This dashboard is telling about total sales and total orders of the supermarket. You can filter measures to summarise the dashboard in total sales or total orders view. In the bottom part of the dashboard, you can select variables that you are interested in to see total values, %change, and the difference from the last period value to improve sales to target.</p>
+<p>Data source by <a href = "https://www.kaggle.com/aungpyaeap/supermarket-sales" target="_blank">kaggle</a></p>
+
+<p align = 'center'>
+<iframe width="1080" height="690" src="https://public.tableau.com/views/SupermarketReport/Dashboard6?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link:showVizHome=no&:embed=true" frameborder="0" allowFullScreen="true"></iframe>
 </p>
 
 <h2>Anime Recommendations</h2>
