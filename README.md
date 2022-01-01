@@ -40,5 +40,5 @@ Especially, the number of covid patients in line graph !!! you can see overall p
 <p>Data source by <a href = "https://www.kaggle.com/CooperUnion/anime-recommendations-database" target="_blank">kaggle</a></p>
 
 <p align = 'center'>
-<iframe width="900" height="550" src="https://public.tableau.com/views/AnimeRecommendations/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link:showVizHome=no&:embed=true" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="1000" height="700" src="https://public.tableau.com/views/AnimeRecommendations/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link:showVizHome=no&:embed=true" frameborder="0" allowFullScreen="true"></iframe>
 </p>
