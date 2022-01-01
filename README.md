@@ -41,7 +41,7 @@ Especially, the number of covid patients in line graph !!! you can see overall p
 <p>Data source by <a href = "https://www.kaggle.com/aungpyaeap/supermarket-sales" target="_blank">kaggle</a></p>
 
 <p align = 'left'>
-<iframe width="920" height="660" src="https://public.tableau.com/views/Supermarkettotalsalesbyproduct/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link:showVizHome=no&:embed=true" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="920" height="680" src="https://public.tableau.com/views/Supermarkettotalsalesbyproduct/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link:showVizHome=no&:embed=true" frameborder="0" allowFullScreen="true"></iframe>
 </p>
 
 
