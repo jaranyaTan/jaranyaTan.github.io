@@ -32,7 +32,7 @@ Especially, the number of covid patients in line graph !!! you can see overall p
 <p>Data source by <a href = "https://www.kaggle.com/aungpyaeap/supermarket-sales" target="_blank">kaggle</a></p>
 
 <p align = 'left'>
-<iframe width="900" height="690" src="https://public.tableau.com/views/SupermarketReport/Dashboard6?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link:showVizHome=no&:embed=true" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="920" height="690" src="https://public.tableau.com/views/SupermarketReport/Dashboard6?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link:showVizHome=no&:embed=true" frameborder="0" allowFullScreen="true"></iframe>
 </p>
 
 <h2>Supermarket Sales by Product line</h2>
@@ -41,7 +41,7 @@ Especially, the number of covid patients in line graph !!! you can see overall p
 <p>Data source by <a href = "https://www.kaggle.com/aungpyaeap/supermarket-sales" target="_blank">kaggle</a></p>
 
 <p align = 'left'>
-<iframe width="900" height="660" src="https://public.tableau.com/views/Supermarkettotalsalesbyproduct/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link:showVizHome=no&:embed=true" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="950" height="660" src="https://public.tableau.com/views/Supermarkettotalsalesbyproduct/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link:showVizHome=no&:embed=true" frameborder="0" allowFullScreen="true"></iframe>
 </p>
 
 
@@ -50,5 +50,5 @@ Especially, the number of covid patients in line graph !!! you can see overall p
 <p>Data source by <a href = "https://www.kaggle.com/CooperUnion/anime-recommendations-database" target="_blank">kaggle</a></p>
 
 <p align = 'left'>
-<iframe width="900" height="700" src="https://public.tableau.com/views/AnimeRecommendations/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link:showVizHome=no&:embed=true" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="970" height="700" src="https://public.tableau.com/views/AnimeRecommendations/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link:showVizHome=no&:embed=true" frameborder="0" allowFullScreen="true"></iframe>
 </p>
