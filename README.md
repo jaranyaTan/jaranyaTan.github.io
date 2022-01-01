@@ -36,7 +36,7 @@ Especially, the number of covid patients in line graph !!! you can see overall p
 </p>
 
 <h2>Supermarket Sales by Product line</h2>
-<p>This dashboard summarises total sales (or total orders) by product line. you can see the value and the %growth of each product and you can select variables to group value by product line and selected variable. 
+<p>This dashboard summarises total sales (or total orders) by product line. You can see the value and the %growth of each product and you can select variables to group value by product line and selected variable. 
 </p>
 <p>Data source by <a href = "https://www.kaggle.com/aungpyaeap/supermarket-sales" target="_blank">kaggle</a></p>
 
