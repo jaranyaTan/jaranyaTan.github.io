@@ -39,6 +39,6 @@ Especially, the number of covid patients in line graph !!! you can see overall p
 <p> This is my first Tableau dashboard which tells the story about popular animes. This is useful for various users such as everyone choosing an anime to see on their weekend or a writer who wants to write a story that everyone is interested in. You can see the relationship between the number of members and the rating for used increase the rating.</p>
 <p>Data source by <a href = "https://www.kaggle.com/CooperUnion/anime-recommendations-database" target="_blank">kaggle</a></p>
 
-<p align = 'center'>
-<iframe width="900" height="600" src="https://public.tableau.com/views/AnimeRecommendations/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link:showVizHome=no&:embed=true" frameborder="0" allowFullScreen="true"></iframe>
+<p align = 'left'>
+<iframe width="900" height="700" src="https://public.tableau.com/views/AnimeRecommendations/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link:showVizHome=no&:embed=true" frameborder="0" allowFullScreen="true"></iframe>
 </p>
