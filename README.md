@@ -32,7 +32,7 @@ Especially, the number of covid patients in line graph !!! you can see overall p
 <p>Data source by <a href = "https://www.kaggle.com/aungpyaeap/supermarket-sales" target="_blank">kaggle</a></p>
 
 <p align = 'center'>
-<iframe width="1080" height="690" src="https://public.tableau.com/views/SupermarketReport/Dashboard6?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link:showVizHome=no&:embed=true" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="900" height="690" src="https://public.tableau.com/views/SupermarketReport/Dashboard6?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link:showVizHome=no&:embed=true" frameborder="0" allowFullScreen="true"></iframe>
 </p>
 
 <h2>Anime Recommendations</h2>
